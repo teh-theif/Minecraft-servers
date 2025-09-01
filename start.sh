@@ -1,5 +1,5 @@
 #!/bin/bash
-# Setup the environment variables
+# Setup the ensvironment variables
 JAVA=/var/games/minecraft/java/jdk-24.0.2/bin/java
 IP=192.168.40.125
 PORT=25565

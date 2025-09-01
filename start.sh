@@ -1,5 +1,4 @@
 #!/bin/bash
-# test comment
 # Setup the environment variables
 JAVA=/var/games/minecraft/java/jdk-24.0.2/bin/java
 IP=192.168.40.125

@@ -1,1 +1,1 @@
-sgc -m "Backup %t" -t 1h -p
+sgc -m "SMP Backup %t" -t 1m -p --tag

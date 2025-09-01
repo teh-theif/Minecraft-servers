@@ -1,0 +1,10 @@
+logs/
+syncmatics/
+versions/
+libraries/
+backups/
+world/ledger.sqlite
+config/spark/tmp/
+config/worldedit/sessions/
+/.fabric
+/crash-reports

@@ -542,7 +542,8 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "minecraft:woods": "2025-08-23 18:54:21 +0000"
+      "minecraft:woods": "2025-08-23 18:54:21 +0000",
+      "minecraft:pale": "2025-09-02 01:14:58 +0000"
     },
     "done": false
   },
@@ -1338,31 +1339,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-08-27 22:53:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-08-27 22:48:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "pumpkin_stem": "2025-08-27 22:51:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-08-27 22:30:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-27 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-27 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-08-27 22:07:45 +0000"
     },
@@ -1374,27 +1363,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-08-27 22:07:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-08-27 22:17:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_bamboo": "2025-08-27 22:07:45 +0000"
+      "has_stone_slab": "2025-08-27 22:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-27 22:48:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-08-27 22:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pumpkin_stem": "2025-08-27 22:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-27 22:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-09-02 01:15:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-02 01:15:28 +0000"
     },
     "done": true
   },

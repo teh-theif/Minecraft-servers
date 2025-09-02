@@ -422,7 +422,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-22 22:55:50 +0000",
       "minecraft:spider": "2025-08-23 19:22:57 +0000",
-      "minecraft:zombie": "2025-08-23 19:17:02 +0000"
+      "minecraft:zombie": "2025-08-23 19:17:02 +0000",
+      "minecraft:creeper": "2025-09-02 18:58:58 +0000"
     },
     "done": false
   },
@@ -1408,6 +1409,42 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-09-02 01:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-09-02 18:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-09-02 18:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-09-02 18:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-09-02 18:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-02 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-09-02 18:58:59 +0000"
     },
     "done": true
   },

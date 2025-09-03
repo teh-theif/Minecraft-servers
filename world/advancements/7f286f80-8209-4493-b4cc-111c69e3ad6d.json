@@ -4388,5 +4388,53 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-09-03 16:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_gray_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-09-03 16:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-03 16:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-03 16:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/gray_bundle": {
+    "criteria": {
+      "has_gray_dye": "2025-09-03 16:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-03 16:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-09-03 16:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_gray_dye": "2025-09-03 16:52:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }

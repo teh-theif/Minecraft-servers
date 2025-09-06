@@ -4436,6 +4436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-09-05 12:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-05 12:03:45 +0000"
@@ -4451,12 +4457,6 @@
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2025-09-05 12:03:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2025-09-05 12:02:55 +0000"
     },
     "done": true
   },

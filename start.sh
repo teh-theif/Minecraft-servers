@@ -1,12 +1,12 @@
 #!/bin/bash
 # Setup the ensvironment variables
 JAVA=/var/games/minecraft/java/jdk-24.0.2/bin/java
-IP=192.168.40.125
+IP=$(hostname -I)
 PORT=25565
 RAM=6G
 DESCRIPTION="SMP Minecraft Server"
 JAR=./fabric-server-1.21.8.jar
-ARGS=nogui
+ARGS="nogui --port $PORT"
 
 echo "Starting Minecraft Server"
 echo "Server Name: SMP Minecraft Server"

@@ -7,9 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-09-18 00:21:17 +0000",
+      "minecraft:forest": "2025-09-18 00:19:52 +0000",
+      "minecraft:meadow": "2025-09-18 00:19:00 +0000",
       "minecraft:plains": "2025-08-06 01:38:46 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-18 00:20:02 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4440
 }

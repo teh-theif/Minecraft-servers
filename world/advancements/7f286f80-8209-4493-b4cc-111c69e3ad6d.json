@@ -4903,15 +4903,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "has_gray_terracotta": "2025-09-20 12:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2025-09-20 12:26:20 +0000"
+      "has_sherd": "2025-09-20 12:22:56 +0000",
+      "trail_ruins_rare": "2025-09-20 12:18:05 +0000",
+      "trail_ruins_common": "2025-09-20 12:16:14 +0000"
     },
     "done": true
   },
@@ -4921,71 +4917,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/host_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-20 12:18:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dye_light_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-09-20 12:21:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2025-09-20 12:26:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_light_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-09-20 12:21:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
-    "criteria": {
-      "has_mud_bricks": "2025-09-20 12:26:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-09-20 12:26:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
-    "criteria": {
-      "has_red_terracotta": "2025-09-20 12:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raiser_armor_trim_smithing_template": {
-    "criteria": {
-      "has_raiser_armor_trim_smithing_template": "2025-09-20 12:27:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-09-20 12:22:56 +0000",
-      "trail_ruins_rare": "2025-09-20 12:18:05 +0000",
-      "trail_ruins_common": "2025-09-20 12:16:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall": {
-    "criteria": {
-      "has_mud_bricks": "2025-09-20 12:26:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-09-20 12:26:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-09-20 12:26:20 +0000"
     },
     "done": true
   },
@@ -5007,9 +4953,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-09-20 12:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_blue_bundle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-09-20 12:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-09-20 12:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-09-20 12:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_glazed_terracotta": {
     "criteria": {
       "has_blue_terracotta": "2025-09-20 12:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-20 12:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-20 12:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-20 12:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-20 12:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-20 12:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-20 12:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raiser_armor_trim_smithing_template": {
+    "criteria": {
+      "has_raiser_armor_trim_smithing_template": "2025-09-20 12:27:38 +0000"
     },
     "done": true
   },
@@ -5019,21 +5031,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_candle": {
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
-      "has_light_blue_dye": "2025-09-20 12:21:06 +0000"
+      "has_red_terracotta": "2025-09-20 12:30:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/host_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
     "criteria": {
-      "has_smithing_trim_template": "2025-09-20 12:18:10 +0000"
+      "has_wayfinder_armor_trim_smithing_template": "2025-09-20 12:31:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/light_blue_bundle": {
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_light_blue_dye": "2025-09-20 12:21:06 +0000"
+      "has_smithing_trim_template": "2025-09-20 12:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-20 13:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-09-20 13:21:28 +0000"
     },
     "done": true
   },

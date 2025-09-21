@@ -39,6 +39,7 @@
       "minecraft:lukewarm_ocean": "2025-08-18 15:05:00 +0000",
       "minecraft:stony_shore": "2025-08-06 12:34:52 +0000",
       "minecraft:snowy_taiga": "2025-09-18 15:54:29 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-21 17:21:57 +0000",
       "minecraft:deep_dark": "2025-08-14 11:57:29 +0000",
       "minecraft:grove": "2025-08-06 12:12:36 +0000",
       "minecraft:meadow": "2025-08-06 12:11:38 +0000",
@@ -5180,7 +5181,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-09-21 16:01:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-09-21 16:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-09-21 16:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-09-21 16:01:30 +0000"
     },
@@ -5195,24 +5214,6 @@
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-09-21 16:07:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-09-21 16:01:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-09-21 16:01:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-09-21 16:01:30 +0000"
     },
     "done": true
   },

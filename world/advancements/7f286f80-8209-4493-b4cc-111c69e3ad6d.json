@@ -16,16 +16,20 @@
       "minecraft:deep_cold_ocean": "2025-08-15 16:48:41 +0000",
       "minecraft:frozen_ocean": "2025-08-06 16:35:52 +0000",
       "minecraft:eroded_badlands": "2025-08-20 12:11:05 +0000",
+      "minecraft:desert": "2025-09-21 16:00:17 +0000",
       "minecraft:frozen_river": "2025-08-06 16:36:08 +0000",
       "minecraft:ocean": "2025-08-18 15:01:45 +0000",
       "minecraft:jungle": "2025-08-18 15:08:31 +0000",
       "minecraft:cherry_grove": "2025-09-19 22:37:55 +0000",
+      "minecraft:sunflower_plains": "2025-09-21 15:57:11 +0000",
+      "minecraft:birch_forest": "2025-09-21 15:56:52 +0000",
       "minecraft:windswept_hills": "2025-09-19 22:34:13 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-18 15:53:26 +0000",
       "minecraft:snowy_beach": "2025-09-18 15:54:38 +0000",
       "minecraft:wooded_badlands": "2025-08-20 12:13:14 +0000",
       "minecraft:bamboo_jungle": "2025-08-20 12:16:57 +0000",
       "minecraft:badlands": "2025-08-20 12:11:29 +0000",
+      "minecraft:flower_forest": "2025-09-21 15:57:09 +0000",
       "minecraft:savanna_plateau": "2025-08-20 12:06:10 +0000",
       "minecraft:beach": "2025-08-06 12:34:03 +0000",
       "minecraft:dark_forest": "2025-08-20 12:18:21 +0000",
@@ -40,7 +44,8 @@
       "minecraft:meadow": "2025-08-06 12:11:38 +0000",
       "minecraft:windswept_gravelly_hills": "2025-09-19 22:34:11 +0000",
       "minecraft:savanna": "2025-08-18 15:05:12 +0000",
-      "minecraft:plains": "2025-08-06 12:11:12 +0000"
+      "minecraft:plains": "2025-08-06 12:11:12 +0000",
+      "minecraft:jagged_peaks": "2025-09-21 15:57:04 +0000"
     },
     "done": false
   },
@@ -5172,6 +5177,42 @@
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-09-20 13:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-09-21 16:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-09-21 16:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-21 16:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-09-21 16:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-09-21 16:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-09-21 16:01:30 +0000"
     },
     "done": true
   },
